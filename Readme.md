@@ -27,5 +27,5 @@ The results of FID and IS will be shown in FID.txt and IS.txt, respectively.
 You can train our ProtoGAN with your own datasets by setting the adequate path and change the corresponding resolution for your data, enjoy!
 
 ### Important notes 
-1. Our code is heavily developed based on [FastGAN](https://github.com/odegeasslbc/FastGAN-pytorch). We thanks a lot for their great work. The code is for research only. 
+1. Our code is developed based on [FastGAN](https://github.com/odegeasslbc/FastGAN-pytorch). We thanks a lot for their great work. The code is for research only. 
 2. Feel free to contact me at kobeshegu@gmail.com if you have any questions.

@@ -1,6 +1,6 @@
 # Readme.md
 
-## Source codes for ProtoGAN: Towards High Diversity and Fidelity Image Synthesis under limited Data
+## Source codes for ProtoGAN: Towards High Diversity and Fidelity Image Synthesis under limited Data (InS-2023)
 
 ### Requirements
 
@@ -29,3 +29,16 @@ You can train our ProtoGAN with your own datasets by setting the adequate path a
 ### Important notes 
 1. Our code is developed based on [FastGAN](https://github.com/odegeasslbc/FastGAN-pytorch). We thanks a lot for their great work. The code is for research only. 
 2. Feel free to contact me at kobeshegu@gmail.com if you have any questions.
+
+## BibTeX
+```bibtex
+@article{yang2022ProtoGAN,
+  title={ProtoGAN: Towards high diversity and fidelity image synthesis under limited data},
+  author={Yang, Mengping and Wang, Zhe and Chi, Ziqiu and Du, Wenli},
+  journal={Information Sciences},
+  volume={632},
+  pages={698-714},
+  year={2023},
+  publisher={Elsevier}
+}
+```
